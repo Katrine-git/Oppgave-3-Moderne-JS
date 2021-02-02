@@ -384,7 +384,7 @@ try {
 	})();
 	*/
 
-  /// class (bonus) ///
+  /// class (bonus) oh yeah bonus greier///
 
   /*
 	(function UseClass() {
