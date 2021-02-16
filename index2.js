@@ -362,7 +362,7 @@ try {
 	})();
 	
 
-  ////// BONUS //////
+  ////// BONUS /////
 
   /// Method definitions (bonus) ///
 
