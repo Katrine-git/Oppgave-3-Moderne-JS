@@ -244,7 +244,6 @@ try {
 	console.log(a);*/
 
 	const a = ["Oslo", 985];
-	const [name, age] = a;
 	
 	/*const a = {
 		name: 'Oslo',
@@ -349,7 +348,8 @@ try {
 		// - Do NOT use Object.assign()
 		// - Do use object spread properties
 		// - Think about the order!
-		let result = {...obj1, ...obj2, ...obj3, ...obj2, ...obj2};
+		//let result = {...obj1, ...obj2, ...obj3, ...obj2, ...obj2};
+		let result = {...obj1, ...obj3, ...obj2}
 
 		// Don't make changes below this line	
 		
